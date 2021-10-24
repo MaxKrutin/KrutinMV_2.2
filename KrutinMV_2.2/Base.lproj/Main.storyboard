@@ -26,7 +26,7 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="13" translatesAutoresizingMaskIntoConstraints="NO" id="H4h-iJ-4jI">
                                         <rect key="frame" x="0.0" y="0.0" width="374" height="37"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Red:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lgd-XQ-Yag" userLabel="Red Label">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Red:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Lgd-XQ-Yag" userLabel="Red Label">
                                                 <rect key="frame" x="0.0" y="0.0" width="59" height="37"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="Lgd-XQ-Yag" secondAttribute="height" multiplier="8:5" id="GGu-e7-E5o"/>
@@ -35,7 +35,7 @@
                                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M8R-Ua-QEb" userLabel="Red Counter">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="M8R-Ua-QEb" userLabel="Red Counter">
                                                 <rect key="frame" x="72" y="0.0" width="59.5" height="37"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="M8R-Ua-QEb" secondAttribute="height" multiplier="8:5" id="RIZ-eX-w4T"/>
@@ -60,7 +60,7 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="13" translatesAutoresizingMaskIntoConstraints="NO" id="eOJ-wV-RcU">
                                         <rect key="frame" x="0.0" y="37" width="374" height="37"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Green:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="14I-M2-VmK" userLabel="Green Label">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Green:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="14I-M2-VmK" userLabel="Green Label">
                                                 <rect key="frame" x="0.0" y="0.0" width="59" height="37"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="14I-M2-VmK" secondAttribute="height" multiplier="8:5" id="Cf2-78-YI2"/>
@@ -69,7 +69,7 @@
                                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="381-1e-acm" userLabel="Green Counter">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="381-1e-acm" userLabel="Green Counter">
                                                 <rect key="frame" x="72" y="0.0" width="59.5" height="37"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="381-1e-acm" secondAttribute="height" multiplier="8:5" id="Oe2-2y-5iV"/>
@@ -94,7 +94,7 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="13" translatesAutoresizingMaskIntoConstraints="NO" id="MUn-7b-IHU">
                                         <rect key="frame" x="0.0" y="74" width="374" height="37"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Blue:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KPX-aW-uel" userLabel="Blue Label">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Blue:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="KPX-aW-uel" userLabel="Blue Label">
                                                 <rect key="frame" x="0.0" y="0.0" width="59" height="37"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="KPX-aW-uel" secondAttribute="height" multiplier="8:5" id="cjZ-ti-EZx"/>
@@ -103,7 +103,7 @@
                                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m7T-2i-ict" userLabel="Blue Counter">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="m7T-2i-ict" userLabel="Blue Counter">
                                                 <rect key="frame" x="72" y="0.0" width="59.5" height="37"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="m7T-2i-ict" secondAttribute="height" multiplier="8:5" id="4eO-N4-Uv1"/>
